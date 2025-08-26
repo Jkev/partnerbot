@@ -1,0 +1,17 @@
+{
+  "name": "digypartnerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jkev",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "body-parser": "^2.2.0",
+    "dialogflow-fulfillment": "^0.5.0",
+    "express": "^5.1.0"
+  }
+}
